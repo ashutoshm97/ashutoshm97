@@ -1,4 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=B81EDC&background=FFFFFF00&center=true&multiline=true&random=true&width=435&lines=%22Coding%2C+Learning%2C+Evolving%22" alt="Typing SVG" /></a>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=B81EDC&background=FFFFFF00&center=true&multiline=true&random=true&width=435&lines=%22Coding%2C+Learning%2C+Evolving%22" alt="Typing SVG" />
+</a>
 
 # 👋 Hi, I'm Ashutosh Mishra
 
