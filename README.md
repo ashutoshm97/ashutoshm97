@@ -74,7 +74,7 @@ Tech: PyTorch, PostgreSQL, Matrix Factorization, GraphQL
 ### 📫 Let's Connect
 
 - 📧 Email: ashutoshm28@outlook.com  
-- 🔗 LinkedIn: [linkedin.com/in/ashutoshm28](https://www.linkedin.com/in/ashutoshm28)  
+- 🔗 LinkedIn: [linkedin.com/in/ashutoshpmishra](https://www.linkedin.com/in/ashutoshpmishra)  
 - 💼 Resume: Available upon request or in repository
 
 ---
