@@ -53,12 +53,44 @@ class MLScientist:
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashutoshm97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshm97&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff"/>
+
+<!-- Alternative Stats Layout -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashutoshm97&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=ffffff&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashutoshm97&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&border_radius=10"/>
+
 </div>
 
+<!-- Manual Stats as Fallback -->
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshm97&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff" alt="GitHub Streak" />
+
+### **📈 Development Metrics**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total_Contributions-97+-00D4FF?style=for-the-badge&logo=github&labelColor=0D1117" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Languages-6+-FF6B35?style=for-the-badge&logo=code&labelColor=0D1117" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Active_Since-2023-32CD32?style=for-the-badge&logo=calendar&labelColor=0D1117" />
+</td>
+</tr>
+</table>
+
+**Primary Languages:** `Python` • `JavaScript` • `C++` • `Jupyter Notebook` • `TypeScript` • `CSS`
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshm97&bg_color=0d1117&color=00d4ff&line=ff6b35&point=ffffff&area=true&hide_border=true&theme=react-dark" alt="Contribution Graph" />
+</div>
+
+<!-- Streak Stats with Fallback -->
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=ashutoshm97&theme=dark&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
