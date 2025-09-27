@@ -1,5 +1,10 @@
 <div align="center">
 
+# [cite_start]Ashutosh Mishra [cite: 8]
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=I+build...;I+build...scalable%2C+self-healing+AI+systems+at+scale.;I+build...high-throughput+platforms+for+100k%2B+requests/minute.;I+build...robust+MLOps+pipelines+for+production+AI.;I+build...resilient+frameworks+for+LLMs+%26+Agentic+AI." alt="Typing SVG" /></a>
+
+
 <!-- Dynamic Header Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&background=0D111700&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Machine+Learning+Scientist+%7C+AI+Systems+Engineer;Researching+ML+Security+%26+Adversarial+Robustness;Building+Next-Gen+Intelligent+Systems" alt="Dynamic Header" />
 
