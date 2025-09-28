@@ -10,17 +10,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
     steps:
+      # This line is the only change
       - uses: actions/checkout@v3
+        with:
+          # Fetches all history for all branches and tags
+          fetch-depth: 0
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          # Your GitHub username
           github_user_name: ${{ github.repository_owner }}
-          
-          # A list of files to generate
-          # The dark theme is enabled using ?palette=github-dark
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
