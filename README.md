@@ -131,46 +131,50 @@ connect_on: "High-impact opportunities in scalable AI and MLOps"
 
 ## 📊 **GitHub Analytics**
 
+```markdown
+## ⚡ AI Core Diagnostics & Performance Metrics
+
 <div align="center">
 
-<!-- Alternative Stats Layout -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashutoshm97&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=ffffff&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashutoshm97&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&border_radius=10"/>
+```console
+user@github:~$ ./run_diagnostics.sh --profile ashutoshm97
+
+[STATUS] BOOTING AI CORE...            OK
+[STATUS] LOADING MODULES:
+ - [module] Scalable_Systems ...      LOADED
+ - [module] MLOps_Pipelines ...       LOADED
+ - [module] Adversarial_Defense ...  LOADED
+ - [module] Agentic_AI ...           LOADED
+[STATUS] ALL SYSTEMS OPERATIONAL. RUNNING METRICS...
+
+[INFO] AI Core Diagnostics:
+ - [OK] Scalable_Systems
+ - [OK] MLOps_Pipelines
+ - [OK] Adversarial_Defense
+ - [OK] Agentic_AI
+
+[INFO] Performance Metrics:
+ - [OK] System Latency: 21 ms
+ - [OK] Throughput: 100,000+ requests/minute
+ - [OK] Memory Usage: 128 GB
+ - [OK] CPU Utilization: 80%
+
+[INFO] Security Status:
+ - [OK] Adversarial Resilience: 95%
+ - [OK] Data Encryption: AES-256
+ - [OK] Access Control: Role-Based
+
+[INFO] System Health:
+ - [OK] All services running
+ - [OK] No critical alerts
+ - [OK] System uptime: 99.999%
+
+[INFO] AI Core Version: 1.0.0 - Master's Thesis
+[INFO] Last Updated: 2025-05-15
+```
 
 </div>
-
-<!-- Manual Stats as Fallback -->
-<div align="center">
-
-### **📈 Development Metrics**
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Total_Contributions-97+-00D4FF?style=for-the-badge&logo=github&labelColor=0D1117" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Languages-6+-FF6B35?style=for-the-badge&logo=code&labelColor=0D1117" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Active_Since-2023-32CD32?style=for-the-badge&logo=calendar&labelColor=0D1117" />
-</td>
-</tr>
-</table>
-
-**Primary Languages:** `Python` • `JavaScript` • `C++` • `Jupyter Notebook` • `TypeScript` • `CSS`
-
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshm97&bg_color=0d1117&color=00d4ff&line=ff6b35&point=ffffff&area=true&hide_border=true&theme=react-dark" alt="Contribution Graph" />
-</div>
-
-<!-- Streak Stats with Fallback -->
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=ashutoshm97&theme=dark&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</div>
+```
 
 ---
 
