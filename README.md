@@ -12,6 +12,48 @@
 <h4><b>🤝 Connect with me & view my work</b></h4>
 
 <p>
+  <a href="https://www.linkedin.com/in/ashutoshm28" style="text-decoration: none;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </picture>
+  </a>
+  <a href="https://github.com/ashutoshm97" style="text-decoration: none;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </picture>
+  </a>
+  <a href="https://donnafrontend-759125479426.us-east4.run.app/" style="text-decoration: none;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Project:_Donna-FF6B35?style=for-the-badge&logo=google-cloud&logoColor=white">
+      <img src="https://img.shields.io/badge/Project:_Donna-FF6B35?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Project: Donna"/>
+    </picture>
+  </a>
+  <a href="https://doi.org/10.25394/PGS.28899152.v1" style="text-decoration: none;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Publication-FFA500?style=for-the-badge&logo=googlescholar&logoColor=white">
+      <img src="https://img.shields.io/badge/Publication-FFA500?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Publication"/>
+    </picture>
+  </a>
+  <a href="mailto:ashutoshm28@outlook.com" style="text-decoration: none;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+    </picture>
+  </a>
+</p>
+
+</div>
+
+
+
+
+<div align="center">
+
+<h4><b>🤝 Connect with me & view my work</b></h4>
+
+<p>
   <a href="https://www.linkedin.com/in/ashutoshm28">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -63,10 +105,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ashutoshm97&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api?username=ashutoshm97&show_icons=true&theme=default&hide_border=true&rank_icon=github&count_private=true" alt="Ashutosh's GitHub stats"/>
 </picture>
-
-</div>
-
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshm97&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true)
 
 </div>
 
