@@ -384,13 +384,13 @@ Target: Multimodal & ViT
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'background': '#0D1117', 'primaryColor': '#00D4FF', 'primaryTextColor': '#F0F6FC', 'primaryBorderColor': '#30363D', 'lineColor': '#484F58', 'secondaryColor': '#FF6B35', 'tertiaryColor': '#21262D', 'quaternaryColor': '#8B949E', 'c0': '#00D4FF', 'c1': '#FF6B35', 'c2': '#7C3AED', 'c3': '#10B981'}}}%%
 mindmap
-  classDef root fill:#0D1117,stroke:@secondaryColor,stroke-width:4px,color:#fff
+  classDef rootStyle fill:#0D1117,stroke:@secondaryColor,stroke-width:4px,color:#fff
   classDef b1 fill:@c0,color:#000,stroke-width:2px,stroke:#fff
   classDef b2 fill:@c1,color:#000,stroke-width:2px,stroke:#fff
   classDef b3 fill:@c2,color:#fff,stroke-width:2px,stroke:#fff
   classDef b4 fill:@c3,color:#000,stroke-width:2px,stroke:#fff
 
-  root((🧠 ML Innovation)):::root
+  ((🧠 ML Innovation)):::rootStyle
     (Agentic AI):::b1
       Multi-Agent Systems
       Autonomous Frameworks
