@@ -60,31 +60,73 @@
 </div>
 
 ---
-
-## 🧬 **About Me**
+<!-- About Me -->
 
 ```python
-class MLScientist:
+#!/usr/bin/env python3
+"""Senior Software Engineer | Building Production AI/ML Systems at Scale"""
+
+from typing import List, Dict
+
+class AshutoshMishra:
+    """
+    My approach is rooted in a deep understanding of the full stack—from the 
+    algorithm down to the silicon it runs on. I build scalable, self-healing 
+    AI systems designed to perform under pressure.
+    """
     def __init__(self):
         self.name = "Ashutosh Mishra"
-        self.role = "Machine Learning Scientist & AI Systems Engineer"
-        self.expertise = [
-            "Scalable ML Systems", "Adversarial Robustness", 
-            "LLM Engineering", "MLOps Architecture"
+        self.role = "Senior Software Engineer (AI/ML & Distributed Systems)"
+        self.location = "Los Angeles, California"
+
+        self.expertise = {
+            "🤖 AI / ML": [
+                "LLMs & RAG", "Agentic AI Frameworks", 
+                "Adversarial ML", "Deep Learning"
+            ],
+            "🚀 Systems & MLOps": [
+                "High-Throughput System Architecture", "MLOps (MLflow, K8s, Docker)",
+                "CI/CD for ML", "Distributed Caching (Redis)"
+            ],
+            "💻 Languages & Cloud": [
+                "Python (Flask, Django)", "Java (Spring Boot)", "C++",
+                "AWS", "GCP", "Azure"
+            ]
+        }
+        
+        self.current_focus = "Productionizing the next generation of intelligent systems, from LLMs to Agentic AI."
+
+    def get_impact_highlights(self) -> List[str]:
+        """Quantifiable achievements that demonstrate real-world impact."""
+        return [
+            "✅ Architected a microservices platform to handle 100,000+ requests/minute with a 25% latency reduction.",
+            "✅ Developed an LLM-driven system that cut network deployment cycles by 80% across 150,000+ endpoints.",
+            "✅ Built 'Donna,' a RAG solution adopted by 12+ university departments, reducing information lookup from hours to seconds.",
+            "✅ Engineered forecasting models that contributed to a +9.67% YoY revenue increase for a global client."
         ]
-        self.current_focus = "Next-gen AI Security & Intelligent Automation"
-        self.seeking = "Full-time opportunities in ML Research + Engineering"
-    
-    def get_passion(self):
-        return "Building robust AI systems that solve real-world problems"
+
+    def get_core_philosophy(self) -> str:
+        return "True optimization isn't just about elegant code; it's about deeply understanding the entire stack."
+
+# Let's see the impact
+engineer = AshutoshMishra()
+for highlight in engineer.get_impact_highlights():
+    print(highlight)
 ```
 
-<div align="center">
+```yaml
+# 🔬 Research-Driven • 🛠️ Engineering-Focused • 🚀 Innovation-Minded • 🎯 Impact-Oriented
 
-**🔬 Research-Driven • 🛠️ Engineering-Focused • 🚀 Innovation-Minded**
+philosophy: >
+  Building production-grade AI on a foundation of deep systems knowledge,
+  from the algorithm down to the silicon.
 
-</div>
+current_focus:
+  - Productionizing LLMs & Agentic AI
+  - Architecting Adversarial Defenses
 
+connect_on: "High-impact opportunities in scalable AI and MLOps"
+```
 ---
 
 ## 📊 **GitHub Analytics**
