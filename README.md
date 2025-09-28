@@ -2,17 +2,26 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=I+build...;I+build...scalable%2C+self-healing+AI+systems+at+scale.;I+build...high-throughput+platforms+for+100k%2B+requests/minute.;I+build...robust+MLOps+pipelines+for+production+AI.;I+build...resilient+frameworks+for+LLMs+%26+Agentic+AI." alt="Typing SVG" /></a>
 
+<!-- Header -->
 ![Header](./src/github-header-banner.png)
-
-<!-- Futuristic Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashutosh%20Mishra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=ML%20Scientist%20%7C%20AI%20Engineer%20%7C%20Security%20Researcher&descAlignY=55&descSize=16" />
 
 <!-- Social Badges with Enhanced Styling -->
 <p align="center">
-<a href="https://www.linkedin.com/in/ashutoshm28"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
-<a href="https://github.com/ashutoshm97"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515"/></a>
-<a href="https://donnafrontend-759125479426.us-east4.run.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B35"/></a>
-<a href="https://doi.org/10.25394/PGS.28899152.v1"><img src="https://img.shields.io/badge/Research-DOI-FFA500?style=for-the-badge&logo=academia&logoColor=white&labelColor=FFA500"/></a>
+  <a href="https://www.linkedin.com/in/ashutoshpmishra">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ashutoshm97">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://donnafrontend-759125479426.us-east4.run.app/">
+    <img src="https://img.shields.io/badge/Project:_Donna-FF6B35?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Project: Donna"/>
+  </a>
+  <a href="https://doi.org/10.25394/PGS.28899152.v1">
+    <img src="https://img.shields.io/badge/Publication-FFA500?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Thesis Publication"/>
+  </a>
+  <a href="mailto:ashutoshm28@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <!-- Dynamic Stats -->
