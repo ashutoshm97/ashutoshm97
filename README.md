@@ -360,6 +360,7 @@ Target: Multimodal & ViT
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=500&color=gradient&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=🥇+DEI+Award+%7C+Purdue+Research+Symposium;🚀+100k%2B+RPS+%7C+High-Throughput+System+Design;🤖+80%25+Faster+Deployments+%7C+LLM-Powered+Automation" />
+</div>
 
 ```diff
 + [AWARD 🥇] Received the DEI Award at the Purdue Research Symposium for the 'Donna' AI Assistant.
@@ -369,7 +370,6 @@ Target: Multimodal & ViT
 + [LLM AUTOMATION 🤖] Cut network deployment cycles by `80%` with an LLM-powered Python & Ansible system.
 + [PRODUCT IMPACT 🧠] Developed a RAG solution ('Donna') adopted by `12+ university departments`.
 + [BUSINESS GROWTH 📈] Drove a `+9.67% YoY revenue increase` for a global client via forecasting models.
-</div>
 ```
 ---
 
@@ -382,33 +382,26 @@ Target: Multimodal & ViT
 
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'background': '#0D1117', 'primaryColor': '#00D4FF', 'primaryTextColor': '#F0F6FC', 'primaryBorderColor': '#30363D', 'lineColor': '#484F58', 'secondaryColor': '#FF6B35', 'tertiaryColor': '#21262D', 'quaternaryColor': '#8B949E', 'c0': '#00D4FF', 'c1': '#FF6B35', 'c2': '#7C3AED', 'c3': '#10B981'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'background': '#0D1117', 'primaryColor': '#00D4FF', 'primaryTextColor': '#F0F6FC', 'primaryBorderColor': '#30363D', 'lineColor': '#484F58', 'secondaryColor': '#FF6B35', 'tertiaryColor': '#21262D', 'quaternaryColor': '#8B949E'}}}%%
 mindmap
-  classDef root fill:#0D1117,stroke:#FF6B35,stroke-width:4px,color:#fff
-  classDef b1 fill:#00D4FF,color:#000,stroke-width:2px,stroke:#fff
-  classDef b2 fill:#FF6B35,color:#000,stroke-width:2px,stroke:#fff
-  classDef b3 fill:#7C3AED,color:#fff,stroke-width:2px,stroke:#fff
-  classDef b4 fill:#10B981,color:#000,stroke-width:2px,stroke:#fff
-
-  root((🧠 ML Innovation)):::root
-    (Agentic AI):::b1
+  root((🧠 ML Innovation))
+    (Agentic AI)
       Multi-Agent Systems
       Autonomous Frameworks
       Tool-Using Agents
-    (AI Security):::b2
+    (AI Security)
       Adversarial Defense
       Robust Training
       Model Guardrails
-    (Performance Engineering):::b3
+    (Performance Engineering)
       Distributed Training
       Low-Latency Inference
       Full-Stack Optimization
-    (MLOps Architecture):::b4
+    (MLOps Architecture)
       Production RAG Systems
       Real-time Monitoring
       CI/CD for ML
 ```
-
 
 ---
 
