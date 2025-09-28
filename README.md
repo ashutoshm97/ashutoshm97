@@ -8,38 +8,63 @@
 
 <!-- Test -->
 <div align="center">
-<details>
-  <summary><b>🤝 Connect with me & view my work</b></summary>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ashutoshm28">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/ashutoshm97">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://donnafrontend-759125479426.us-east4.run.app/">
-      <img src="https://img.shields.io/badge/Project:_Donna-FF6B35?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Project: Donna"/>
-    </a>
-    <a href="https://doi.org/10.25394/PGS.28899152.v1">
-      <img src="https://img.shields.io/badge/Publication-FFA500?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Publication"/>
-    </a>
-    <a href="mailto:ashutoshm28@outlook.com">
-      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-</details>
-</div>
 
-<p align="center">
-  <a href="https://github.com/ashutoshm97">
-    <img src="https://komarev.com/ghpvc/?username=ashutoshm97&style=for-the-badge&color=blue" alt="Profile Views"/>
+<h4><b>🤝 Connect with me & view my work</b></h4>
+
+<p>
+  <a href="https://www.linkedin.com/in/ashutoshm28">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </picture>
   </a>
-  <a href="https://github.com/ashutoshm97?tab=followers">
-    <img src="https://img.shields.io/github/followers/ashutoshm97?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers"/>
+  <a href="https://github.com/ashutoshm97">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </picture>
+  </a>
+  <a href="https://donnafrontend-759125479426.us-east4.run.app/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Project:_Donna-FF6B35?style=for-the-badge&logo=google-cloud&logoColor=white">
+      <img src="https://img.shields.io/badge/Project:_Donna-FF6B35?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Project: Donna"/>
+    </picture>
+  </a>
+  <a href="https://doi.org/10.25394/PGS.28899152.v1">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Publication-FFA500?style=for-the-badge&logo=googlescholar&logoColor=white">
+      <img src="https://img.shields.io/badge/Publication-FFA500?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Publication"/>
+    </picture>
+  </a>
+  <a href="mailto:ashutoshm28@outlook.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+    </picture>
   </a>
 </p>
 
-<div align="center">
+<p>
+  <a href="https://github.com/ashutoshm97">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=ashutoshm97&style=for-the-badge&color=blue&labelColor=212121">
+      <img src="https://komarev.com/ghpvc/?username=ashutoshm97&style=for-the-badge&color=blue&labelColor=grey" alt="Profile Views"/>
+    </picture>
+  </a>
+  <a href="https://github.com/ashutoshm97?tab=followers">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/ashutoshm97?style=for-the-badge&logo=github&label=Followers&color=181717">
+      <img src="https://img.shields.io/github/followers/ashutoshm97?style=for-the-badge&logo=github&label=Followers&color=grey" alt="GitHub followers"/>
+    </picture>
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ashutoshm97&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshm97&show_icons=true&theme=default&hide_border=true&rank_icon=github&count_private=true" alt="Ashutosh's GitHub stats"/>
+</picture>
+
+</div>
 
 ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshm97&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true)
 
