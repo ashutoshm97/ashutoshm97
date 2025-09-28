@@ -1,14 +1,13 @@
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=I+build...;I+build...scalable%2C+self-healing+AI+systems+at+scale.;I+build...high-throughput+platforms+for+100k%2B+requests/minute.;I+build...robust+MLOps+pipelines+for+production+AI.;I+build...resilient+frameworks+for+LLMs+%26+Agentic+AI." alt="Typing SVG" /></a>
-
 <!-- Header -->
 ![Header](./src/github-header-banner.png)
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=I+build...;I+build...scalable%2C+self-healing+AI+systems+at+scale.;I+build...high-throughput+platforms+for+100k%2B+requests/minute.;I+build...robust+MLOps+pipelines+for+production+AI.;I+build...resilient+frameworks+for+LLMs+%26+Agentic+AI." alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <div align="center">
 
-<h4><b>🤝 Connect with me & view my work</b></h4>
+<h4><b> Connect with me & view my work</b></h4>
 
 <p>
   <a href="https://www.linkedin.com/in/ashutoshpmishra" style="text-decoration: none;">
@@ -57,15 +56,6 @@
     </picture>
   </a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ashutoshm97&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshm97&show_icons=true&theme=default&hide_border=true&rank_icon=github&count_private=true" alt="Ashutosh's GitHub stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-stats-api.herokuapp.com/ashutoshm97?theme=dark&font=Fira%20Code">
-  <img src="https://leetcode-stats-api.herokuapp.com/ashutoshm97?theme=light&font=Fira%20Code" alt="Ashutosh's LeetCode stats"/>
-</picture>
 
 </div>
 
