@@ -178,8 +178,6 @@ user@github:~$ ./run_diagnostics.sh --profile ashutoshm97
 
 </div>
 
-<div align="center">
-
 🔧 TECH STACK :: PRODUCTION_READY
 ```python
 # Primary Arsenal - Battle-tested in enterprise & research environments
@@ -194,7 +192,6 @@ LANGUAGES = {
 AI_ML = ["LLMs", "RAG", "Agentic AI", "Adversarial ML"]
 SYSTEMS_MLOPS = ["Docker", "Kubernetes", "AWS", "GCP", "Azure", "MLflow"]
 ```
-</div>
 
 <div align="center">
 
@@ -214,80 +211,133 @@ SYSTEMS_MLOPS = ["Docker", "Kubernetes", "AWS", "GCP", "Azure", "MLflow"]
 
 [SYSTEM STATUS] ◉ ONLINE  |  [MODE] ◉ ENGINEERING  |  [LAST UPDATE] ◉ REAL-TIME
 </div>
----
 
-## 🔬 **Research & Publications**
+<!---- Research and Publications --->
 
-<div align="center">
+## 🔬 Research & Featured Projects
+```markdown
+<table>
+  <tr valign="top">
+    <td width="50%">
+      <div align="center">
+        <h3>🔐 Enhancing The Security of Arbiter PUFs</h3>
+        <i>Thesis Publication @ Purdue University</i>
+      </div>
+      <br>
+      A novel Physical Unclonable Function (PUF) architecture demonstrating superior resilience against adversarial machine learning attacks.
+      <ul>
+        <li><b>Impact:</b> Reduced a state-of-the-art DNN's prediction accuracy by 8%.</li>
+        <li><b>Scale:</b> Trained and validated on a massive dataset of over 10 million Challenge-Response Pairs (CRPs).</li>
+        <li><b>Performance:</b> Optimized training time from 24 hours down to 2 hours using JAX/CuPy.</li>
+      </ul>
+      <div align="center">
+        <a href="https://doi.org/10.25394/PGS.28899152.v1">
+          <img src="https://img.shields.io/badge/Read_Thesis-FFA500?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Read Thesis"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/JAX-FF6B35?style=for-the-badge&logo=google&logoColor=white" alt="JAX"/>
+        <img src="https://img.shields.io/badge/CuPy-00D4FF?style=for-the-badge&logo=nvidia&logoColor=white" alt="CuPy"/>
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
+        <hr>
+        <pre><code>// Adversarial Attack Simulation
 
-### 🔐 **Enhancing Security Scalability of Arbiter PUFs Using Memory-Based Weak PUFs**
-
-</div>
-
-> **Breakthrough Architecture:** FF-MB-APUF design for enhanced entropy & ML attack resistance
-
-<table align="center">
-<tr>
-<td align="center"><strong>🎯 Impact</strong></td>
-<td align="center"><strong>⚡ Performance</strong></td>
-<td align="center"><strong>🔧 Tech Stack</strong></td>
-</tr>
-<tr>
-<td align="center">8% ↓ Attack Accuracy<br/>50M CRPs Dataset</td>
-<td align="center">24h → 2h Training<br/>JAX/CuPy Optimization</td>
-<td align="center">Python • JAX • CuPy<br/>NumPy • CUDA</td>
-</tr>
-</table>
-
-<div align="center">
-
-**📜 [Read Full Thesis →](https://doi.org/10.25394/PGS.28899152.v1)**
-
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-### 🎓 **[Donna – 3D Virtual Assistant](https://donnafrontend-759125479426.us-east4.run.app/)**
-**🏆 DEI Award Winner | Purdue Research Symposium**
-
-</div>
-
+🔥 DNN Accuracy: 92% 📉 -> 84%
+⚡ Entropy Gain: +15%
+🧠 Model: CMA-ES vs. DNN</code></pre>
+      </div>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="50%">
+      <div align="center">
+        <h3>🎓 Donna – 3D Virtual Assistant</h3>
+        <b>🏆 DEI Award Winner | Purdue Research Symposium</b>
+      </div>
+      <br>
+      A state-of-the-art Retrieval-Augmented Generation (RAG) solution developed at the invitation of campus directors to serve 12+ university departments.
+      <ul>
+        <li><b>Core Function:</b> Leverages LLMs and a vector database for rapid, accurate policy and document retrieval.</li>
+        <li><b>Innovation:</b> Integrates with a 3D navigation engine for an interactive, spatially-aware user experience.</li>
+        <li><b>Impact:</b> Slashed information lookup times from hours to seconds.</li>
+      </ul>
+      <div align="center">
+        <a href="https://donnafrontend-759125479426.us-east4.run.app/">
+          <img src="https://img.shields.io/badge/View_Project-FF6B35?style=for-the-badge&logo=google-cloud&logoColor=white" alt="View Project"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <br>
+        <img src="https://img.shields.io/badge/GPT--4o-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4o"/>
+        <img src="https://img.shields.io/badge/Gemini-8E77D8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+        <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
+        <hr>
 ```mermaid
 graph TD
-    A[User Query] --> B[GPT-4o Processing]
-    B --> C[RAG Vector Search]
-    C --> D[3D Navigation Engine]
-    D --> E[MappedIn API Integration]
-    E --> F[Interactive Response]
-    
-    style A fill:#00D4FF,stroke:#ffffff,color:#000000
-    style F fill:#FF6B35,stroke:#ffffff,color:#000000
-```
-
-**Tech Stack:** `GPT-4o` • `Gemini` • `LangChain` • `Vector Search` • `Embeddings` • `3D WebGL`
-
----
-
+    A[User Query] --> B(Vector Search);
+    B --> C{LLM Processing};
+    C --> D[3D Engine Response];
+    style A fill:#00D4FF,stroke:#fff,color:#000
+    style D fill:#FF6B35,stroke:#fff,color:#000
+  </div>
+</td>
+</tr>
+<tr valign="top">
+<td width="50%">
 <div align="center">
-
-### 🤖 **Dynamic Transformer Architectures**
-**Next-Gen Language Models with Adaptive Attention**
-
+<h3>🤖 Dynamic Transformer Architectures</h3>
+<i>Research on Adaptive Attention for Language Models</i>
 </div>
 
-| Metric | Improvement | Baseline |
-|--------|-------------|----------|
-| BLEU Score | **+20%** | T5/BART |
-| Inference Latency | **-10%** | Standard Transformers |
-| Memory Efficiency | **+15%** | Parallel Processing |
 
-**Innovation:** Adaptive attention layers with parallel encoder paths for optimized performance.
 
----
+Proposed a novel training strategy to enhance model efficiency for multimodal and Vision Transformer (ViT) applications.
+<ul>
+<li><b>Innovation:</b> Designed adaptive attention layers with parallel encoder paths to optimize performance.</li>
+<li><b>Core Result:</b> The new architecture demonstrated significant gains in performance and efficiency over standard baselines.</li>
+</ul>
+<div align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vision_Transformers-76B900%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite" alt="ViT"/>
+</div>
+</td>
+<td width="50%">
+<div align="center">
+
+
+
+<table>
+<tr><td colspan="3" align="center"><b>Performance Gains vs. Baseline</b></td></tr>
+<tr>
+<td align="center"><b>BLEU Score</b></td>
+<td align="center"><b>Inference Latency</b></td>
+<td align="center"><b>Memory Efficiency</b></td>
+</tr>
+<tr>
+<td align="center"><b style="color:#32CD32;">+20%</b></td>
+<td align="center"><b style="color:#32CD32;">-10%</b></td>
+<td align="center"><b style="color:#32CD32;">+15%</b></td>
+</tr>
+</table>
+<hr>
+<pre><code>// Model Architecture
+
+Layer: Adaptive Attention
+
+Path: Parallel Encoders
+
+Target: Multimodal & ViT</code></pre>
+</div>
+</td>
+</tr>
+
+</table>
 
 <div align="center">
 
