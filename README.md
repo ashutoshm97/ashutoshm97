@@ -173,8 +173,8 @@ user@github:~$ ./run_diagnostics.sh --profile ashutoshm97
 
 <div align="center">
 
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api%3Fusername%3Dashutoshm97%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00D4FF%26icon_color%3DFF6B35%26text_color%3Dffffff%26border_radius%3D10%26custom_title%3D◉%20SYSTEM%20DIAGNOSTICS"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/%3Fusername%3Dashutoshm97%26layout%3Dcompact%26langs_count%3D8%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00D4FF%26text_color%3Dffffff%26border_radius%3D10%26custom_title%3D◉%20LANGUAGE%20PROTOCOLS"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashutoshm97&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=ffffff&border_radius=10&custom_title=◉%20SYSTEM%20DIAGNOSTICS"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashutoshm97&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&border_radius=10&custom_title=◉%20LANGUAGE%20PROTOCOLS"/>
 
 </div>
 
@@ -198,15 +198,15 @@ SYSTEMS_MLOPS = ["Docker", "Kubernetes", "AWS", "GCP", "Azure", "MLflow"]
 
 <div align="center">
 
-🌊 NEURAL ACTIVITY PATTERNS
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dashutoshm97%26bg_color%3D0d1117%26color%3D00d4ff%26line%3Dff6b35%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue%26theme%3Dreact-dark%26custom_title%3DCOMMIT%2520FREQUENCY%2520ANALYSIS" alt="Neural Activity Graph" />
+### 🌊 NEURAL ACTIVITY PATTERNS
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshm97&bg_color=0d1117&color=00d4ff&line=ff6b35&point=ffffff&area=true&hide_border=true&theme=react-dark&custom_title=COMMIT%20FREQUENCY%20ANALYSIS" alt="Neural Activity Graph" />
 
 </div>
 
 <div align="center">
 
-🔥 PERSISTENCE PROTOCOL
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3Dashutoshm97%26theme%3Ddark%26background%3D0D1117%26stroke%3D00D4FF%26ring%3DFF6B35%26fire%3DFF6B35%26currStreakNum%3Dffffff%26sideNums%3Dffffff%26currStreakLabel%3D00D4FF%26sideLabels%3D00D4FF%26dates%3Dffffff%26hide_border%3Dtrue" alt="Persistence Protocol" />
+### 🔥 PERSISTENCE PROTOCOL
+<img src="https://streak-stats.demolab.com/?user=ashutoshm97&theme=dark&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff&hide_border=true" alt="Persistence Protocol" />
 
 </div>
 
