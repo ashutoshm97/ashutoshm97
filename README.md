@@ -213,149 +213,95 @@ SYSTEMS_MLOPS = ["Docker", "Kubernetes", "AWS", "GCP", "Azure", "MLflow"]
 </div>
 
 <!---- Research and Publications --->
+# 🔬 Research & Featured Projects
 
-## 🔬 Research & Featured Projects
-```markdown
-<table>
-  <tr valign="top">
-    <td width="50%">
-      <div align="center">
-        <h3>🔐 Enhancing The Security of Arbiter PUFs</h3>
-        <i>Thesis Publication @ Purdue University</i>
-      </div>
-      <br>
-      A novel Physical Unclonable Function (PUF) architecture demonstrating superior resilience against adversarial machine learning attacks.
-      <ul>
-        <li><b>Impact:</b> Reduced a state-of-the-art DNN's prediction accuracy by 8%.</li>
-        <li><b>Scale:</b> Trained and validated on a massive dataset of over 10 million Challenge-Response Pairs (CRPs).</li>
-        <li><b>Performance:</b> Optimized training time from 24 hours down to 2 hours using JAX/CuPy.</li>
-      </ul>
-      <div align="center">
-        <a href="https://doi.org/10.25394/PGS.28899152.v1">
-          <img src="https://img.shields.io/badge/Read_Thesis-FFA500?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Read Thesis"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/JAX-FF6B35?style=for-the-badge&logo=google&logoColor=white" alt="JAX"/>
-        <img src="https://img.shields.io/badge/CuPy-00D4FF?style=for-the-badge&logo=nvidia&logoColor=white" alt="CuPy"/>
-        <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
-        <hr>
-        <pre><code>// Adversarial Attack Simulation
+## 🔐 Enhancing The Security of Arbiter PUFs
+*Thesis Publication @ Purdue University*
 
-🔥 DNN Accuracy: 92% 📉 -> 84%
+A novel Physical Unclonable Function (PUF) architecture demonstrating superior resilience against adversarial machine learning attacks.
+
+**Key Achievements:**
+- **Impact:** Reduced a state-of-the-art DNN's prediction accuracy by 8%
+- **Scale:** Trained and validated on a massive dataset of over 10 million Challenge-Response Pairs (CRPs)
+- **Performance:** Optimized training time from 24 hours down to 2 hours using JAX/CuPy
+
+**Technologies Used:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-FF6B35?style=for-the-badge&logo=google&logoColor=white)
+![CuPy](https://img.shields.io/badge/CuPy-00D4FF?style=for-the-badge&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**Performance Metrics:**
+```
+🔥 DNN Accuracy: 92% → 84%
 ⚡ Entropy Gain: +15%
-🧠 Model: CMA-ES vs. DNN</code></pre>
-      </div>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="50%">
-      <div align="center">
-        <h3>🎓 Donna – 3D Virtual Assistant</h3>
-        <b>🏆 DEI Award Winner | Purdue Research Symposium</b>
-      </div>
-      <br>
-      A state-of-the-art Retrieval-Augmented Generation (RAG) solution developed at the invitation of campus directors to serve 12+ university departments.
-      <ul>
-        <li><b>Core Function:</b> Leverages LLMs and a vector database for rapid, accurate policy and document retrieval.</li>
-        <li><b>Innovation:</b> Integrates with a 3D navigation engine for an interactive, spatially-aware user experience.</li>
-        <li><b>Impact:</b> Slashed information lookup times from hours to seconds.</li>
-      </ul>
-      <div align="center">
-        <a href="https://donnafrontend-759125479426.us-east4.run.app/">
-          <img src="https://img.shields.io/badge/View_Project-FF6B35?style=for-the-badge&logo=google-cloud&logoColor=white" alt="View Project"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <br>
-        <img src="https://img.shields.io/badge/GPT--4o-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4o"/>
-        <img src="https://img.shields.io/badge/Gemini-8E77D8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-        <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
-        <hr>
-```mermaid
-graph TD
-    A[User Query] --> B(Vector Search);
-    B --> C{LLM Processing};
-    C --> D[3D Engine Response];
-    style A fill:#00D4FF,stroke:#fff,color:#000
-    style D fill:#FF6B35,stroke:#fff,color:#000
-  </div>
-</td>
-</tr>
-<tr valign="top">
-<td width="50%">
-<div align="center">
-<h3>🤖 Dynamic Transformer Architectures</h3>
-<i>Research on Adaptive Attention for Language Models</i>
-</div>
-
-
-
-Proposed a novel training strategy to enhance model efficiency for multimodal and Vision Transformer (ViT) applications.
-<ul>
-<li><b>Innovation:</b> Designed adaptive attention layers with parallel encoder paths to optimize performance.</li>
-<li><b>Core Result:</b> The new architecture demonstrated significant gains in performance and efficiency over standard baselines.</li>
-</ul>
-<div align="center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vision_Transformers-76B900%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite" alt="ViT"/>
-</div>
-</td>
-<td width="50%">
-<div align="center">
-
-
-
-<table>
-<tr><td colspan="3" align="center"><b>Performance Gains vs. Baseline</b></td></tr>
-<tr>
-<td align="center"><b>BLEU Score</b></td>
-<td align="center"><b>Inference Latency</b></td>
-<td align="center"><b>Memory Efficiency</b></td>
-</tr>
-<tr>
-<td align="center"><b style="color:#32CD32;">+20%</b></td>
-<td align="center"><b style="color:#32CD32;">-10%</b></td>
-<td align="center"><b style="color:#32CD32;">+15%</b></td>
-</tr>
-</table>
-<hr>
-<pre><code>// Model Architecture
-
-Layer: Adaptive Attention
-
-Path: Parallel Encoders
-
-Target: Multimodal & ViT</code></pre>
-</div>
-</td>
-</tr>
-
-</table>
-
-<div align="center">
-
-### 🎵 **Personalized Music Recommendation System**
-**Real-Time ML Pipeline with GraphQL Backend**
-
-</div>
-
-```python
-# Architecture Highlights
-recommendation_engine = {
-    "collaborative_filtering": "Matrix Factorization + Deep Learning",
-    "content_based": "Audio Feature Extraction + Embeddings", 
-    "real_time_processing": "Flask + GraphQL + WebSocket",
-    "performance_gain": "40% latency reduction"
-}
+🧠 Model: CMA-ES vs. DNN
 ```
 
+[![Read Thesis](https://img.shields.io/badge/Read_Thesis-FFA500?style=for-the-badge&logo=googlescholar&logoColor=white)](https://doi.org/10.25394/PGS.28899152.v1)
+
+---
+
+## 🎓 Donna – 3D Virtual Assistant
+**🏆 DEI Award Winner | Purdue Research Symposium**
+
+A state-of-the-art Retrieval-Augmented Generation (RAG) solution developed at the invitation of campus directors to serve 12+ university departments.
+
+**Key Features:**
+- **Core Function:** Leverages LLMs and a vector database for rapid, accurate policy and document retrieval
+- **Innovation:** Integrates with a 3D navigation engine for an interactive, spatially-aware user experience
+- **Impact:** Slashed information lookup times from hours to seconds
+
+**Technologies Used:**
+![GPT-4o](https://img.shields.io/badge/GPT--4o-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E77D8?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**System Architecture:**
+```mermaid
+graph TD
+    A[User Query] --> B[Vector Search]
+    B --> C[LLM Processing]
+    C --> D[3D Engine Response]
+    style A fill:#00D4FF,stroke:#fff,color:#000
+    style D fill:#FF6B35,stroke:#fff,color:#000
+```
+
+[![View Project](https://img.shields.io/badge/View_Project-FF6B35?style=for-the-badge&logo=google-cloud&logoColor=white)](https://donnafrontend-759125479426.us-east4.run.app/)
+
+---
+
+## 🤖 Dynamic Transformer Architectures
+*Research on Adaptive Attention for Language Models*
+
+Proposed a novel training strategy to enhance model efficiency for multimodal and Vision Transformer (ViT) applications.
+
+**Key Innovations:**
+- **Architecture:** Designed adaptive attention layers with parallel encoder paths to optimize performance
+- **Results:** Demonstrated significant gains in performance and efficiency over standard baselines
+
+**Technologies Used:**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-76B900?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Performance Improvements vs. Baseline:**
+
+| Metric | Improvement |
+|--------|-------------|
+| BLEU Score | **+20%** |
+| Inference Latency | **-10%** |
+| Memory Efficiency | **+15%** |
+
+**Architecture Overview:**
+```
+Layer: Adaptive Attention
+Path: Parallel Encoders
+Target: Multimodal & ViT
+```
+
+---
+
+*This portfolio showcases cutting-edge research in machine learning security, natural language processing, and transformer architectures, with practical applications spanning from cybersecurity to educational technology.*
 ---
 
 ## 🛠️ **Technology Arsenal**
