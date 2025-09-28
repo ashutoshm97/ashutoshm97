@@ -356,7 +356,6 @@ Target: Multimodal & ViT
 </details>
 
 ---
-```markdown
 ## 🏆 Achievements & Recognition
 
 <div align="center">
@@ -371,23 +370,21 @@ Target: Multimodal & ViT
 + [PRODUCT IMPACT 🧠] Developed a RAG solution ('Donna') adopted by `12+ university departments`.
 + [BUSINESS GROWTH 📈] Drove a `+9.67% YoY revenue increase` for a global client via forecasting models.
 </div>
-```
 ---
 ## 📈 Current Innovation Focus
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=gradient&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&lines=🤖+Building+Next-Gen+Agentic+AI;🔒+Securing+Production+Language+Models;⚡+Optimizing+Full-Stack+AI+Performance;🌐+Architecting+Scalable+MLOps+Pipelines" />
 </div>
-## 📈 Current Innovation Focus
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'background': '#0D1117', 'primaryColor': '#00D4FF', 'primaryTextColor': '#F0F6FC', 'primaryBorderColor': '#30363D', 'lineColor': '#484F58', 'secondaryColor': '#FF6B35', 'tertiaryColor': '#21262D', 'quaternaryColor': '#8B949E', 'c0': '#00D4FF', 'c1': '#FF6B35', 'c2': '#7C3AED', 'c3': '#10B981'}}}%%
 mindmap
-  classDef root fill:#0D1117,stroke:@secondaryColor,stroke-width:4px,color:#fff
-  classDef b1 fill:@c0,color:#000,stroke-width:2px,stroke:#fff
-  classDef b2 fill:@c1,color:#000,stroke-width:2px,stroke:#fff
-  classDef b3 fill:@c2,color:#fff,stroke-width:2px,stroke:#fff
-  classDef b4 fill:@c3,color:#000,stroke-width:2px,stroke:#fff
+  classDef root fill:#0D1117,stroke:#FF6B35,stroke-width:4px,color:#fff
+  classDef b1 fill:#00D4FF,color:#000,stroke-width:2px,stroke:#fff
+  classDef b2 fill:#FF6B35,color:#000,stroke-width:2px,stroke:#fff
+  classDef b3 fill:#7C3AED,color:#fff,stroke-width:2px,stroke:#fff
+  classDef b4 fill:#10B981,color:#000,stroke-width:2px,stroke:#fff
 
   root((🧠 ML Innovation)):::root
     (Agentic AI):::b1
