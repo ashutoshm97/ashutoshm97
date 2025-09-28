@@ -412,6 +412,7 @@ mindmap
 
 **⚡ "Innovation distinguishes between a leader and a follower" - Steve Jobs**
 
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=3000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=400&lines=Thanks+for+visiting+my+profile!;Star+⭐+my+repos+if+you+find+them+useful!" alt="Footer Message" />
 
 </div>
