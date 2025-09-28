@@ -10,6 +10,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Add this permissions block
+    permissions:
+      contents: write
+      
     steps:
       - uses: actions/checkout@v3
 
@@ -20,7 +24,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           
           # A list of files to generate
-          # The dark theme is enabled using ?palette=github-dark
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
