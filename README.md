@@ -129,12 +129,10 @@ connect_on: "High-impact opportunities in scalable AI and MLOps"
 ```
 ---
 
-## 📊 **GitHub Analytics**
-
-```markdown
-## ⚡ AI Core Diagnostics & Performance Metrics
-
+<!-- AI Core Diagnostics & Performance Metrics -->
 <div align="center">
+  <img src="https://img.shields.io/badge/AI Core Diagnostics-FF6B35?style=for-the-badge&logo=google-cloud&logoColor=white" alt="AI Core Diagnostics & Performance Metrics"/>
+</div>
 
 ```console
 user@github:~$ ./run_diagnostics.sh --profile ashutoshm97
@@ -173,9 +171,49 @@ user@github:~$ ./run_diagnostics.sh --profile ashutoshm97
 [INFO] Last Updated: 2025-05-15
 ```
 
-</div>
-```
+<div align="center">
 
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api%3Fusername%3Dashutoshm97%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00D4FF%26icon_color%3DFF6B35%26text_color%3Dffffff%26border_radius%3D10%26custom_title%3D◉%20SYSTEM%20DIAGNOSTICS"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/%3Fusername%3Dashutoshm97%26layout%3Dcompact%26langs_count%3D8%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00D4FF%26text_color%3Dffffff%26border_radius%3D10%26custom_title%3D◉%20LANGUAGE%20PROTOCOLS"/>
+
+</div>
+
+<div align="center">
+
+🔧 TECH STACK :: PRODUCTION_READY
+```python
+# Primary Arsenal - Battle-tested in enterprise & research environments
+LANGUAGES = {
+    "🐍 Python":       "████████████████████ 95%",
+    "⚡ Java":         "██████████████████░░ 90%", 
+    "🚀 C++":          "████████████████░░░░ 80%",
+    "📊 TypeScript":   "██████████████░░░░░░ 70%",
+}
+
+# Specialized Modules
+AI_ML = ["LLMs", "RAG", "Agentic AI", "Adversarial ML"]
+SYSTEMS_MLOPS = ["Docker", "Kubernetes", "AWS", "GCP", "Azure", "MLflow"]
+```
+</div>
+
+<div align="center">
+
+🌊 NEURAL ACTIVITY PATTERNS
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dashutoshm97%26bg_color%3D0d1117%26color%3D00d4ff%26line%3Dff6b35%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue%26theme%3Dreact-dark%26custom_title%3DCOMMIT%2520FREQUENCY%2520ANALYSIS" alt="Neural Activity Graph" />
+
+</div>
+
+<div align="center">
+
+🔥 PERSISTENCE PROTOCOL
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3Dashutoshm97%26theme%3Ddark%26background%3D0D1117%26stroke%3D00D4FF%26ring%3DFF6B35%26fire%3DFF6B35%26currStreakNum%3Dffffff%26sideNums%3Dffffff%26currStreakLabel%3D00D4FF%26sideLabels%3D00D4FF%26dates%3Dffffff%26hide_border%3Dtrue" alt="Persistence Protocol" />
+
+</div>
+
+<div align="center">
+
+[SYSTEM STATUS] ◉ ONLINE  |  [MODE] ◉ ENGINEERING  |  [LAST UPDATE] ◉ REAL-TIME
+</div>
 ---
 
 ## 🔬 **Research & Publications**
