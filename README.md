@@ -370,12 +370,16 @@ Target: Multimodal & ViT
 + [PRODUCT IMPACT 🧠] Developed a RAG solution ('Donna') adopted by `12+ university departments`.
 + [BUSINESS GROWTH 📈] Drove a `+9.67% YoY revenue increase` for a global client via forecasting models.
 </div>
+```
 ---
+
 ## 📈 Current Innovation Focus
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=gradient&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&lines=🤖+Building+Next-Gen+Agentic+AI;🔒+Securing+Production+Language+Models;⚡+Optimizing+Full-Stack+AI+Performance;🌐+Architecting+Scalable+MLOps+Pipelines" />
 </div>
+
+
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'background': '#0D1117', 'primaryColor': '#00D4FF', 'primaryTextColor': '#F0F6FC', 'primaryBorderColor': '#30363D', 'lineColor': '#484F58', 'secondaryColor': '#FF6B35', 'tertiaryColor': '#21262D', 'quaternaryColor': '#8B949E', 'c0': '#00D4FF', 'c1': '#FF6B35', 'c2': '#7C3AED', 'c3': '#10B981'}}}%%
