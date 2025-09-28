@@ -382,28 +382,22 @@ Target: Multimodal & ViT
 
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'background': '#0D1117', 'primaryColor': '#00D4FF', 'primaryTextColor': '#F0F6FC', 'primaryBorderColor': '#30363D', 'lineColor': '#484F58', 'secondaryColor': '#FF6B35', 'tertiaryColor': '#21262D', 'quaternaryColor': '#8B949E', 'c0': '#00D4FF', 'c1': '#FF6B35', 'c2': '#7C3AED', 'c3': '#10B981'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ffffff', 'primaryBorderColor': '#000000', 'primaryTextColor': '#000000', 'secondaryColor': '#e1f5fe', 'tertiaryColor': '#e8f5e8', 'quaternaryColor': '#fff3e0'}}}%%
 mindmap
-  classDef rootStyle fill:#0D1117,stroke:@secondaryColor,stroke-width:4px,color:#fff
-  classDef b1 fill:@c0,color:#000,stroke-width:2px,stroke:#fff
-  classDef b2 fill:@c1,color:#000,stroke-width:2px,stroke:#fff
-  classDef b3 fill:@c2,color:#fff,stroke-width:2px,stroke:#fff
-  classDef b4 fill:@c3,color:#000,stroke-width:2px,stroke:#fff
-
-  ((🧠 ML Innovation)):::rootStyle
-    (Agentic AI):::b1
+  root((🧠 ML Innovation))
+    id1[Agentic AI]
       Multi-Agent Systems
       Autonomous Frameworks
       Tool-Using Agents
-    (AI Security):::b2
+    id2[AI Security]
       Adversarial Defense
       Robust Training
       Model Guardrails
-    (Performance Engineering):::b3
+    id3[Performance Engineering]
       Distributed Training
       Low-Latency Inference
       Full-Stack Optimization
-    (MLOps Architecture):::b4
+    id4[MLOps Architecture]
       Production RAG Systems
       Real-time Monitoring
       CI/CD for ML
