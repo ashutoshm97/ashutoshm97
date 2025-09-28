@@ -2,6 +2,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=I+build...;I+build...scalable%2C+self-healing+AI+systems+at+scale.;I+build...high-throughput+platforms+for+100k%2B+requests/minute.;I+build...robust+MLOps+pipelines+for+production+AI.;I+build...resilient+frameworks+for+LLMs+%26+Agentic+AI." alt="Typing SVG" /></a>
 
+![Header](./src/github-header-banner.png)
+
 <!-- Futuristic Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashutosh%20Mishra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=ML%20Scientist%20%7C%20AI%20Engineer%20%7C%20Security%20Researcher&descAlignY=55&descSize=16" />
 
