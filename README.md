@@ -411,30 +411,6 @@ mindmap
   </picture>
 </div>
 
----
-
-## 📫 Let's Build the Future Together
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&lines=Open+to+Full-Time+ML+Engineering+Roles;Passionate+About+AI+Security+%26+Innovation;Let's+Connect+and+Collaborate!" alt="Connect Message" />
-
-**🚀 Ready to tackle challenging ML problems and build impactful AI systems**
-
-</div>
-
----
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshm28)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://donnafrontend-759125479426.us-east4.run.app/)
-
-</div>
-
----
-
-<div align="center">
-
 <!-- Footer Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
 
