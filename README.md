@@ -378,40 +378,36 @@ Target: Multimodal & ViT
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=gradient&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&lines=🤖+Building+Next-Gen+Agentic+AI;🔒+Securing+Production+Language+Models;⚡+Optimizing+Full-Stack+AI+Performance;🌐+Architecting+Scalable+MLOps+Pipelines" />
 
+```markdown
+## 📈 Current Innovation Focus
+
+<div align="center">
+
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#0D1117', 'mainBkg': '#0D1117', 'nodeBorder': '#00D4FF'}}}%%
 mindmap
-  root((🚀 AI Innovation))
-    classDef root fill:#0D1117,stroke:#FF6B35,stroke-width:4px
-    (Agentic AI)
-      classDef l1 fill:#00D4FF,color:#000
-      ::class l1
-      (Multi-Agent Systems)
-      (Autonomous Frameworks)
-      (Tool-Using Agents)
-    (AI Security)
-      ::class l1
-      (Adversarial Defense)
-      (Robust Training)
-      (Model Guardrails)
-    (Performance Engineering)
-      ::class l1
-      (Distributed Training)
-      (Low-Latency Inference)
-      (Full-Stack Optimization)
-    (MLOps Architecture)
-      ::class l1
-      (Production RAG Systems)
-      (Real-time Monitoring)
-      (CI/CD for ML)
-    (AI Systems)
-      ::class l1
-      (Intelligent Automation)
-      (Multi-modal AI)
-      (Edge Deployment)
-```
-
+  classDef root fill:#0D1117,stroke:#FF6B35,stroke-width:4px,color:#fff
+  classDef l1 fill:#00D4FF,color:#000,stroke-width:2px,stroke:#fff
+  
+  root((🧠 ML Innovation)):::root
+    (Agentic AI):::l1
+      Multi-Agent Systems
+      Autonomous Frameworks
+      Tool-Using Agents
+    (AI Security):::l1
+      Adversarial Defense
+      Robust Training
+      Model Guardrails
+    (Performance Engineering):::l1
+      Distributed Training
+      Low-Latency Inference
+      Full-Stack Optimization
+    (MLOps Architecture):::l1
+      Production RAG Systems
+      Real-time Monitoring
+      CI/CD for ML
 </div>
+```
 
 ---
 
