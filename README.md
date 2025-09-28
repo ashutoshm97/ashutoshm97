@@ -407,12 +407,9 @@ mindmap
   </picture>
 </div>
 
-<!-- Footer Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
-
-**⚡ "Innovation distinguishes between a leader and a follower" - Steve Jobs**
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=3000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=400&lines=Thanks+for+visiting+my+profile!;Star+⭐+my+repos+if+you+find+them+useful!" alt="Footer Message" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=3000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=400&lines=Thanks+for+visiting+my+profile!;Star+%E2%AD%90+my+repos+if+you+find+them+useful!" alt="Footer Message" />
 </div>
+
+<!-- Footer Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn&text=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower%22%20-%20Steve%20Jobs&fontSize=25&fontColor=ffffff&fontAlignY=75" />
