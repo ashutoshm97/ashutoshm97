@@ -356,43 +356,22 @@ Target: Multimodal & ViT
 </details>
 
 ---
+```markdown
 ## 🏆 Achievements & Recognition
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=500&color=gradient&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=🥇+DEI+Award+%7C+Purdue+Research+Symposium;🚀+100k%2B+RPS+%7C+High-Throughput+System+Design;🤖+80%25+Faster+Deployments+%7C+LLM-Powered+Automation" />
-<br/>
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🚀_System_Architecture-100k%2B_RPS-6366F1?style=for-the-badge&logo=linux&logoColor=white" />
-<br><sub><b>Scaled systems with 25% lower latency</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🔐_AI_Security-Adversarial_ML_Expert-EF4444?style=for-the-badge&logo=security&logoColor=white" />
-<br><sub><b>Reduced DNN attack success by 8%</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/⚡_Performance_Optimization-JAX/CuPy-10B981?style=for-the-badge&logo=nvidia&logoColor=white" />
-<br><sub><b>24h → 2h Training Acceleration</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🤖_LLM_Automation-Ansible_&_Python-8B5CF6?style=for-the-badge&logo=ansible&logoColor=white" />
-<br><sub><b>Cut network deployment cycles by 80%</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🧠_Advanced_RAG-Adopted_by_12%2B_Depts-F59E0B?style=for-the-badge&logo=google&logoColor=white" />
-<br><sub><b>'Donna' AI Assistant @ Purdue</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📈_Business_Impact-%2B9.67%25_YoY_Revenue-06B6D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlRyZW5kaW5nIFVwPC90aXRsZT48cGF0aCBkPSJNMCAyMy43NjZsOC4wODctNy4wNDVMMTIuMDQ1IDIxLjYgbDExLjk1NS0xMS45NTVWNi4wM0wxMi4wNDUgMTcuOTg1bC0zLjk1OC00Ljg5MkwuMDAxIDEwLjE1eiIvPjwvc3ZnPg==" />
-<br><sub><b>Via time-series forecasting models</b></sub>
-</td>
-</tr>
-</table>
-</div>
 
+```diff
++ [AWARD 🥇] Received the DEI Award at the Purdue Research Symposium for the 'Donna' AI Assistant.
++ [SCALABILITY 🚀] Architected a high-throughput system for `100k+ RPS` with `25% lower latency`.
++ [AI SECURITY 🔐] Reduced adversarial ML attack success by `8%` through novel security research.
++ [PERFORMANCE ⚡] Accelerated ML training workloads from `24 hours to 2 hours` using JAX/CuPy.
++ [LLM AUTOMATION 🤖] Cut network deployment cycles by `80%` with an LLM-powered Python & Ansible system.
++ [PRODUCT IMPACT 🧠] Developed a RAG solution ('Donna') adopted by `12+ university departments`.
++ [BUSINESS GROWTH 📈] Drove a `+9.67% YoY revenue increase` for a global client via forecasting models.
+</div>
+```
 ---
 ## 📈 Current Innovation Focus
 
