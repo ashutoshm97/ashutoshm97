@@ -358,10 +358,6 @@ Target: Multimodal & ViT
 ---
 ## 🏆 Achievements & Recognition
 
-<div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&duration=3000&pause=1000&color=gradient&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&lines=🤖+Building+Next-Gen+Agentic+AI;🔒+Securing+Production+Language+Models;⚡+Optimizing+Full-Stack+AI+Performance;🌐+Architecting+Scalable+MLOps+Pipelines" />
-</div>
-
 ```diff
 + [AWARD 🥇] Received the DEI Award at the Purdue Research Symposium for the 'Donna' AI Assistant.
 + [SCALABILITY 🚀] Architected a high-throughput system for `100k+ RPS` with `25% lower latency`.
