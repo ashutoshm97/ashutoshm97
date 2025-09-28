@@ -10,6 +10,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+<<<<<<< HEAD
+=======
+    # Add this permissions block
+>>>>>>> 5290d7e657885d11c962862d65db20fb8702288c
     permissions:
       contents: write
       
@@ -24,6 +28,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+<<<<<<< HEAD
+=======
+          
+          # A list of files to generate
+>>>>>>> 5290d7e657885d11c962862d65db20fb8702288c
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
