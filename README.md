@@ -359,7 +359,7 @@ Target: Multimodal & ViT
 ## 🏆 Achievements & Recognition
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=500&color=gradient&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=🥇+DEI+Award+%7C+Purdue+Research+Symposium;🚀+100k%2B+RPS+%7C+High-Throughput+System+Design;🤖+80%25+Faster+Deployments+%7C+LLM-Powered+Automation" />
+<img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&duration=3000&pause=1000&color=gradient&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&lines=🤖+Building+Next-Gen+Agentic+AI;🔒+Securing+Production+Language+Models;⚡+Optimizing+Full-Stack+AI+Performance;🌐+Architecting+Scalable+MLOps+Pipelines" />
 </div>
 
 ```diff
