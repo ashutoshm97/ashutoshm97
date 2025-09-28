@@ -7,16 +7,43 @@
 
 
 <!-- Test -->
-Professional Profile & Portfolio
-Connect & Collaborate
-<p align="center"> <a href="https://www.linkedin.com/in/ashutoshm28" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/> </a> <a href="https://github.com/ashutoshm97" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Open_Source_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/> </a> </p>
-Featured Work & Research
-<p align="center"> <a href="https://donnafrontend-759125479426.us-east4.run.app/" target="_blank"> <img src="https://img.shields.io/badge/Featured_Project-Donna_Platform-FF6B35?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Donna - Cloud Application"/> </a> <a href="https://doi.org/10.25394/PGS.28899152.v1" target="_blank"> <img src="https://img.shields.io/badge/Research_Publication-Academic_Work-FFA500?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Published Research"/> </a> </p>
-Get In Touch
-<p align="center"> <a href="mailto:ashutoshm28@outlook.com"> <img src="https://img.shields.io/badge/Business_Inquiries-ashutoshm28@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Professional Email"/> </a> </p>
-Passionate about building scalable solutions and contributing to the tech community through open-source development and research.
+<div align="center">
+<details>
+  <summary><b>🤝 Connect with me & view my work</b></summary>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ashutoshm28">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/ashutoshm97">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://donnafrontend-759125479426.us-east4.run.app/">
+      <img src="https://img.shields.io/badge/Project:_Donna-FF6B35?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Project: Donna"/>
+    </a>
+    <a href="https://doi.org/10.25394/PGS.28899152.v1">
+      <img src="https://img.shields.io/badge/Publication-FFA500?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Publication"/>
+    </a>
+    <a href="mailto:ashutoshm28@outlook.com">
+      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</details>
+</div>
 
+<p align="center">
+  <a href="https://github.com/ashutoshm97">
+    <img src="https://komarev.com/ghpvc/?username=ashutoshm97&style=for-the-badge&color=blue" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/ashutoshm97?tab=followers">
+    <img src="https://img.shields.io/github/followers/ashutoshm97?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers"/>
+  </a>
+</p>
 
+<div align="center">
+
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshm97&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true)
+
+</div>
 
 <!-- Social Badges with Enhanced Styling -->
 <p align="center">
