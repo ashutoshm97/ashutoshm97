@@ -302,135 +302,151 @@ Target: Multimodal & ViT
 ---
 
 *This portfolio showcases cutting-edge research in machine learning security, natural language processing, and transformer architectures, with practical applications spanning from cybersecurity to educational technology.*
----
-
-## 🛠️ **Technology Arsenal**
+## 🛠️ Technology Arsenal
 
 <div align="center">
+  <i>A curated list of my go-to technologies for building production-grade AI systems.</i>
+  <br/><br/>
+  
+  <b>Languages & Core AI</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,react,tensorflow,pytorch,scikitlearn" alt="Languages & Core AI" />
+  <br/><br/>
 
-### **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=python,cpp,js,matlab,tensorflow,pytorch,flask,react" alt="Languages" />
+  <b>LLM & Vector Tech</b><br/>
+  <img src="https://img.shields.io/badge/🦜-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧠-Agentic AI-662D91?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔍-RAG-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <br/><br/>
 
-### **MLOps & Cloud**
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,aws,git,github" alt="MLOps" />
+  <b>Cloud, MLOps & Infrastructure</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,ansible,git,github" alt="Cloud & MLOps" />
+  <br/><br/>
 
-### **Databases & Tools**
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,elasticsearch,grafana,prometheus" alt="Databases" />
-
+  <b>Databases & Monitoring</b><br/>
+  <img src="https://skillicons.dev/icons?i=redis,postgresql,mongodb,grafana,prometheus" alt="Databases & Monitoring" />
+  <img src="https://img.shields.io/badge/📈-Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+  <img src="https://img.shields.io/badge/🌊-MLflow-028CF0?style=for-the-badge&logo=mlflow&logoColor=white" />
 </div>
 
----
-
 <details>
-<summary><b>🧰 Detailed Tech Stack</b></summary>
+<summary><b>🧰 View My Detailed Tech Stack</b></summary>
 
-```yaml
-Programming:
-  - Python: Advanced (TensorFlow, PyTorch, Scikit-Learn)
-  - C++: Systems Programming & Performance Optimization
-  - JavaScript: Full-Stack Development & API Integration
-  - SQL: Complex Queries & Database Design
-  - MATLAB: Mathematical Modeling & Simulation
+**Programming Languages:**
+  - Python: Advanced (Flask, Django, SciPy, OR-Tools, NLTK)
+  - Java: Advanced (Spring Boot)
+  - C++: Proficient
+  - TypeScript: Proficient (React)
+  - SQL: Proficient
 
-ML/AI Frameworks:
-  - Deep Learning: TensorFlow, PyTorch, JAX
-  - NLP: HuggingFace Transformers, LangChain, OpenAI API
-  - Computer Vision: OpenCV, PIL, Detectron2
-  - MLOps: MLflow, Weights & Biases, Azure ML Studio
+**Modern AI/ML Stack:**
+  - LLM Frameworks: LangChain, LangGraph, CrewAI
+  - Core AI: Deep Learning, RAG, Adversarial ML, Multimodal Architectures
+  - Core Libraries: PyTorch, TensorFlow, Scikit-Learn, JAX, CuPy
 
-Cloud & DevOps:
-  - Platforms: Azure, GCP, AWS
-  - Containers: Docker, Kubernetes
-  - Orchestration: Apache Airflow, Prefect
-  - Monitoring: Grafana, Prometheus, ELK Stack
+**MLOps & Production:**
+  - Experiment Tracking: Weights & Biases, MLflow
+  - Deployment & CI/CD: Docker, Kubernetes, GitHub Actions, Jenkins
+  - Model Serving: ONNX
 
-Specializations:
-  - Large Language Models (LLMs)
-  - Retrieval-Augmented Generation (RAG)
-  - Adversarial Machine Learning
-  - Real-Time Analytics & Streaming
-  - Security-First ML Design
-```
+**Cloud & Infrastructure:**
+  - Platforms: AWS (EKS, Lambda, S3), GCP, Azure
+  - Infrastructure: System Architecture, Microservices
+  - Networking: Cisco IOS, Palo Alto Firewall, Ansible
 
 </details>
 
 ---
-
-## 🏆 **Achievements & Recognition**
+## 🏆 Achievements & Recognition
 
 <div align="center">
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=500&color=gradient&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=🥇+DEI+Award+%7C+Purdue+Research+Symposium;🚀+100k%2B+RPS+%7C+High-Throughput+System+Design;🤖+80%25+Faster+Deployments+%7C+LLM-Powered+Automation" />
+<br/>
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🥇_DEI_Award-Purdue_Research-FFD700?style=for-the-badge" />
-<br><sub><b>Donna AI Assistant</b></sub>
+<img src="https://img.shields.io/badge/🚀_System_Architecture-100k%2B_RPS-6366F1?style=for-the-badge&logo=linux&logoColor=white" />
+<br><sub><b>Scaled systems with 25% lower latency</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🏆_Pinnacle_Award-Accenture-FF6B35?style=for-the-badge" />
-<br><sub><b>Leadership Excellence</b></sub>
+<img src="https://img.shields.io/badge/🔐_AI_Security-Adversarial_ML_Expert-EF4444?style=for-the-badge&logo=security&logoColor=white" />
+<br><sub><b>Reduced DNN attack success by 8%</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/⚡_Automation_Expert-50%25_Runtime_Cut-00D4FF?style=for-the-badge" />
-<br><sub><b>100+ Bot Migration</b></sub>
+<img src="https://img.shields.io/badge/⚡_Performance_Optimization-JAX/CuPy-10B981?style=for-the-badge&logo=nvidia&logoColor=white" />
+<br><sub><b>24h → 2h Training Acceleration</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🔐_Google_Cloud-Cybersecurity_Certified-4285F4?style=for-the-badge" />
-<br><sub><b>Security Specialist</b></sub>
+<img src="https://img.shields.io/badge/🤖_LLM_Automation-Ansible_&_Python-8B5CF6?style=for-the-badge&logo=ansible&logoColor=white" />
+<br><sub><b>Cut network deployment cycles by 80%</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/📊_Research_Impact-8%25_Attack_Reduction-32CD32?style=for-the-badge" />
-<br><sub><b>ML Security Research</b></sub>
+<img src="https://img.shields.io/badge/🧠_Advanced_RAG-Adopted_by_12%2B_Depts-F59E0B?style=for-the-badge&logo=google&logoColor=white" />
+<br><sub><b>'Donna' AI Assistant @ Purdue</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🚀_Performance_Optimization-24h→2h_Training-FF1493?style=for-the-badge" />
-<br><sub><b>JAX/CuPy Implementation</b></sub>
+<img src="https://img.shields.io/badge/📈_Business_Impact-%2B9.67%25_YoY_Revenue-06B6D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlRyZW5kaW5nIFVwPC90aXRsZT48cGF0aCBkPSJNMCAyMy43NjZsOC4wODctNy4wNDVMMTIuMDQ1IDIxLjYgbDExLjk1NS0xMS45NTVWNi4wM0wxMi4wNDUgMTcuOTg1bC0zLjk1OC00Ljg5MkwuMDAxIDEwLjE1eiIvPjwvc3ZnPg==" />
+<br><sub><b>Via time-series forecasting models</b></sub>
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
-
-## 📈 **Current Focus Areas**
+## 📈 Current Innovation Focus
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=gradient&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&lines=🤖+Building+Next-Gen+Agentic+AI;🔒+Securing+Production+Language+Models;⚡+Optimizing+Full-Stack+AI+Performance;🌐+Architecting+Scalable+MLOps+Pipelines" />
 
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#0D1117', 'mainBkg': '#0D1117', 'nodeBorder': '#00D4FF'}}}%%
 mindmap
-  root((ML Innovation))
-    LLM Engineering
-      RAG Systems
-      Fine-tuning
-      Prompt Engineering
-    Security Research
-      Adversarial ML
-      Robust Training
-      Attack Mitigation  
-    MLOps Architecture
-      Scalable Pipelines
-      Real-time Inference
-      Model Monitoring
-    AI Systems
-      Intelligent Automation
-      Multi-modal AI
-      Edge Deployment
+  root((🚀 AI Innovation))
+    classDef root fill:#0D1117,stroke:#FF6B35,stroke-width:4px
+    (Agentic AI)
+      classDef l1 fill:#00D4FF,color:#000
+      ::class l1
+      (Multi-Agent Systems)
+      (Autonomous Frameworks)
+      (Tool-Using Agents)
+    (AI Security)
+      ::class l1
+      (Adversarial Defense)
+      (Robust Training)
+      (Model Guardrails)
+    (Performance Engineering)
+      ::class l1
+      (Distributed Training)
+      (Low-Latency Inference)
+      (Full-Stack Optimization)
+    (MLOps Architecture)
+      ::class l1
+      (Production RAG Systems)
+      (Real-time Monitoring)
+      (CI/CD for ML)
+    (AI Systems)
+      ::class l1
+      (Intelligent Automation)
+      (Multi-modal AI)
+      (Edge Deployment)
 ```
 
 </div>
 
 ---
 
-## 📫 **Let's Build the Future Together**
+## 📫 Let's Build the Future Together
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&lines=Open+to+Full-Time+ML+Engineering+Roles;Passionate+About+AI+Security+%26+Innovation;Let's+Connect+and+Collaborate!" alt="Connect Message" />
 
 **🚀 Ready to tackle challenging ML problems and build impactful AI systems**
+
+</div>
+
+---
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshm28)
