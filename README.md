@@ -200,19 +200,6 @@ SYSTEMS_MLOPS = ["Docker", "Kubernetes", "AWS", "GCP", "Azure", "MLflow"]
 
 </div>
 
-<div align="center">
-
-### 🔥 PERSISTENCE PROTOCOL
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashutoshm97&theme=dark&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[SYSTEM STATUS] ◉ ONLINE  |  [MODE] ◉ ENGINEERING  |  [LAST UPDATE] ◉ REAL-TIME
-</div>
-
 <!---- Research and Publications --->
 # 🔬 Research & Featured Projects
 
