@@ -204,7 +204,6 @@ SYSTEMS_MLOPS = ["Docker", "Kubernetes", "AWS", "GCP", "Azure", "MLflow"]
 
 ### 🔥 PERSISTENCE PROTOCOL
 <img src="https://streak-stats.demolab.com/?user=ashutoshm97&theme=dark&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff&hide_border=true" alt="Persistence Protocol" />
-
 </div>
 
 <div align="center">
